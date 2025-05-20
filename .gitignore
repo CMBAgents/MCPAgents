@@ -177,3 +177,10 @@ cython_debug/
 
 ag2/
 mcp_env/
+.aider*
+aider_env/
+aider
+aider_project/
+arxiv_papers/
+wikipedia_articles/
+clarxiver
